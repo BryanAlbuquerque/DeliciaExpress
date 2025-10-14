@@ -29,3 +29,18 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+** Carousel Styles **
+
+.carousel-inner img {
+    border-radius: 10px;
+    transition: transform 0.5s ease;
+}
+
+    .carousel-inner img:hover {
+        transform: scale(1.03);
+    }
+
+.carousel {
+    margin-top: 20px;
+}

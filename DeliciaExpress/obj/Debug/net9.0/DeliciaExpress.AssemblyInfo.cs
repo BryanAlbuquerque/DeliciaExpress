@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeliciaExpress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d07088f889cce3b00e4e894a38b6b134ac06634")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22b9ef68529b6936d0ad484645e11978696b4e27")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeliciaExpress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeliciaExpress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

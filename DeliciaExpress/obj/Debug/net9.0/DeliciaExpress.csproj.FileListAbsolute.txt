@@ -22,7 +22,6 @@ C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\rjsmcsht
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\scopedcss\bundle\DeliciaExpress.styles.css
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\scopedcss\projectbundle\DeliciaExpress.bundle.scp.css
-C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\compressed\hfu3fwn1co-b9sayid5wm.gz
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\compressed\4nzxdqcmi8-61n19gt1b8.gz
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\compressed\0asfvg7p4k-xtxxf3hu2r.gz
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\compressed\tqr4lj8vg2-bqjiyaj88i.gz
@@ -96,3 +95,4 @@ C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\refint\D
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\DeliciaExpress.pdb
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\DeliciaExpress.genruntimeconfig.cache
 C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\ref\DeliciaExpress.dll
+C:\Users\bryan\Documents\DeliciaExpress\DeliciaExpress\obj\Debug\net9.0\compressed\hfu3fwn1co-hro4ohu28d.gz
