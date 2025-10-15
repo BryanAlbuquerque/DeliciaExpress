@@ -9,8 +9,7 @@ namespace DeliciaExpress.Models
         {
         }
 
-        protected AppDbContext()
-        {
-        }
+        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Lanche> Lanches { get; set; }
     }
 }

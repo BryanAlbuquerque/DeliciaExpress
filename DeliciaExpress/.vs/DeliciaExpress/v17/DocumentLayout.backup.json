@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\views\\shared\\_carrosel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:views\\shared\\_carrosel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -48,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Carrosel.cshtml",
               "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Views\\Shared\\_Carrosel.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Carrosel.cshtml",
               "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Views\\Shared\\_Carrosel.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Carrosel.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-10T15:26:54.693Z",
               "IsPinned": true,
@@ -62,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -76,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Categorias.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Models\\Categorias.cs",
               "RelativeDocumentMoniker": "Models\\Categorias.cs",
@@ -90,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Lanches.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Models\\Lanches.cs",
               "RelativeDocumentMoniker": "Models\\Lanches.cs",
@@ -100,6 +112,46 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T16:38:42.753Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:50:48.913Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:53:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T17:53:17.79Z",
               "EditorCaption": ""
             },
             {
