@@ -48,6 +48,7 @@ namespace DeliciaExpress.Models
         public bool EmEstoque { get; set; }
 
 
+        // foreign Keys
         public int CategoriaId { get; set; }
         public virtual Categoria Categoria { get; set; }
     }
