@@ -1,5 +1,6 @@
 ﻿using DeliciaExpress.Models;
 using Microsoft.EntityFrameworkCore;
+using DeliciaExpress.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,11 @@ builder.Services.AddAuthorization();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("default")));
+
+public void ConfigureServices()
+services.AddTransient<ILanchesRepository, LanchesRepository>();
+services.AddTransient<ICategoriaRepository, CategoriaRepository>();
+
 
 var app = builder.Build();
 

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\repository\\lanchesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:repository\\lanchesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,34 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ILanchesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\Interfaces\\ILanchesRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Interfaces\\ILanchesRepository.cs",
-              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\Interfaces\\ILanchesRepository.cs",
-              "RelativeToolTip": "Repository\\Interfaces\\ILanchesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:56:10.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LanchesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\LanchesRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\LanchesRepository.cs",
-              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\LanchesRepository.cs",
-              "RelativeToolTip": "Repository\\LanchesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:52:19.209Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -53,6 +31,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:09:30.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILanchesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\Interfaces\\ILanchesRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ILanchesRepository.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\Interfaces\\ILanchesRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ILanchesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:56:10.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanchesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\LanchesRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LanchesRepository.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\LanchesRepository.cs",
+              "RelativeToolTip": "Repository\\LanchesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:52:19.209Z",
+              "EditorCaption": ""
             }
           ]
         }
