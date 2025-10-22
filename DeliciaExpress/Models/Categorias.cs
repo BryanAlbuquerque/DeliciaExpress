@@ -20,6 +20,7 @@ namespace DeliciaExpress.Models
         public string Descricao { get; set; }
 
 
+        // Relação 1 para muitos (Uma categoria para muitos lanches)
         public List<Lanche> Lanches { get; set; }
 
     }

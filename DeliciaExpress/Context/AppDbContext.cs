@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DeliciaExpress.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace DeliciaExpress.Models
+namespace DeliciaExpress.Context
 
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : DbContext 
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {

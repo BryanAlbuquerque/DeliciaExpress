@@ -1,11 +1,12 @@
-﻿using DeliciaExpress.Repository.Interfaces;
+﻿using DeliciaExpress.Context;
+using DeliciaExpress.Repository.Interfaces;
 
 namespace DeliciaExpress.Repository
 {
     public class CategoriaRepository : ICategoriaRepository
     {
-        private readonly Models.AppDbContext _context;
-        public CategoriaRepository(Models.AppDbContext context)
+        private readonly AppDbContext _context;
+        public CategoriaRepository(AppDbContext context)
         {
             _context = context;
         }

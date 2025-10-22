@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\repository\\lanchesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:repository\\lanchesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\repository\\interfaces\\ilanchesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:repository\\interfaces\\ilanchesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,39 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Models\\Categorias.cs",
+              "RelativeDocumentMoniker": "Models\\Categorias.cs",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Models\\Categorias.cs",
+              "RelativeToolTip": "Models\\Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T17:09:30.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILanchesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\Interfaces\\ILanchesRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Interfaces\\ILanchesRepository.cs",
-              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\Interfaces\\ILanchesRepository.cs",
-              "RelativeToolTip": "Repository\\Interfaces\\ILanchesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:56:10.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LanchesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\LanchesRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\LanchesRepository.cs",
-              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Repository\\LanchesRepository.cs",
-              "RelativeToolTip": "Repository\\LanchesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:52:19.209Z",
+              "WhenOpened": "2025-10-22T16:32:37.539Z",
               "EditorCaption": ""
             }
           ]
