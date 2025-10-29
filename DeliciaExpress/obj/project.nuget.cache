@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lTf3LyjFj5o=",
+  "dgSpecHash": "YrRLwj3Eg4c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\DeliciaExpress.csproj",
+  "projectFilePath": "C:\\Users\\bryan\\OneDrive\\Documentos\\DeliciaExpress\\DeliciaExpress\\DeliciaExpress.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bryan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\bryan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

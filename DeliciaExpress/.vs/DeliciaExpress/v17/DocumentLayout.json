@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\documents\\deliciaexpress\\deliciaexpress\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\DeliciaExpress\\DeliciaExpress\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Categorias.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Models\\Categorias.cs",
-              "RelativeDocumentMoniker": "Models\\Categorias.cs",
-              "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Models\\Categorias.cs",
-              "RelativeToolTip": "Models\\Categorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T16:32:37.539Z",
-              "EditorCaption": ""
             }
           ]
         }
