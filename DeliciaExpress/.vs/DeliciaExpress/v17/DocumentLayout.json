@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\DeliciaExpress\\DeliciaExpress\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\onedrive\\documentos\\deliciaexpress\\deliciaexpress\\models\\lanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:models\\lanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\onedrive\\documentos\\deliciaexpress\\deliciaexpress\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|c:\\users\\bryan\\onedrive\\documentos\\deliciaexpress\\deliciaexpress\\models\\lanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341FE53E-ED67-49EC-AD98-6D4C8679EA6F}|DeliciaExpress.csproj|solutionrelative:models\\lanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Lanches.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\DeliciaExpress\\DeliciaExpress\\Models\\Lanches.cs",
               "RelativeDocumentMoniker": "Models\\Lanches.cs",
               "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\DeliciaExpress\\DeliciaExpress\\Models\\Lanches.cs",
               "RelativeToolTip": "Models\\Lanches.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowAMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T13:32:47.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Categorias.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\DeliciaExpress\\DeliciaExpress\\Models\\Categorias.cs",
               "RelativeDocumentMoniker": "Models\\Categorias.cs",
               "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\DeliciaExpress\\DeliciaExpress\\Models\\Categorias.cs",
               "RelativeToolTip": "Models\\Categorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T13:31:06.917Z",
               "EditorCaption": ""
