@@ -1,22 +1,31 @@
 ﻿@using System.Globalization;
 
-@model IEnumerable<DeliciaExpress.Models.Lanche>
+@model LanchesListViewModel
 
 @{
     ViewData["Title"] = "List";
 }
 
 <div>
-    <h2>Todos os Lanches</h2>
+    <h2>@Model.CategoriaAtual</h2>
 </div>
 
-@foreach (var Lanche in Model)
-{
-    <div>
-        <h4>@Lanche.Nome</h4>
-        <p><img src="@Lanche.ImagemUrl"></p>
-        <p>@Lanche.DescricaoCurta</p>
-        <h2>Preço: @Lanche.Preco.ToString("C", CultureInfo.InvariantCulture)</h2> 
-    </div>
+<br>
 
-}
+
+<div class="conteiner">
+    <div class="row">
+        @foreach (var Lanche in Model.Lanches)
+        {
+            <div class="col-sm-4  col-md-4 col-lg-4">
+                <p><img src="@Lanche.ImagemUrl" class="img-fluid"></p>
+                <h3>Preço: @Lanche.Preco.ToString("c")</h3>
+                <h2>@Lanche.Nome</h2>
+                <p>@Lanche.DescricaoCurta</p>
+
+                <br>
+            </div>
+        }
+    </div>
+</div>
+

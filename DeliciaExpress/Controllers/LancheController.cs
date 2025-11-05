@@ -14,8 +14,13 @@ namespace DeliciaExpress.Controllers
 
         public IActionResult List()
         {
-            var lanches = _lancheRepository.lanches;
-            return View(lanches);
+            //var lanches = _lancheRepository.lanches;
+            //return View(lanches);
+
+            var LanchesViewModel = new ViewModels.LanchesListViewModel();
+            LanchesViewModel.Lanches = _lancheRepository.lanches;
+            LanchesViewModel.CategoriaAtual = "Categoria Atual";
+            return View(LanchesViewModel);
         }
     }
 }
