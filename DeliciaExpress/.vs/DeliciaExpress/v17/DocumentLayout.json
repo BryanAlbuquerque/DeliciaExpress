@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-05T11:04:40.976Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-05T12:22:16.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T12:22:16.129Z"
             },
             {
               "$type": "Document",
@@ -75,7 +73,7 @@
               "RelativeDocumentMoniker": "ViewModels\\LanchesListViewModel.cs",
               "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\ViewModels\\LanchesListViewModel.cs",
               "RelativeToolTip": "ViewModels\\LanchesListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T12:18:51.083Z",
               "EditorCaption": ""
@@ -88,7 +86,7 @@
               "RelativeDocumentMoniker": "Controllers\\LancheController.cs",
               "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Controllers\\LancheController.cs",
               "RelativeToolTip": "Controllers\\LancheController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T12:18:16.192Z",
               "EditorCaption": ""
@@ -101,7 +99,7 @@
               "RelativeDocumentMoniker": "Views\\Lanche\\List.cshtml",
               "ToolTip": "C:\\Users\\bryan\\Documents\\DeliciaExpress\\DeliciaExpress\\Views\\Lanche\\List.cshtml",
               "RelativeToolTip": "Views\\Lanche\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-05T11:36:57.21Z",
               "EditorCaption": ""
